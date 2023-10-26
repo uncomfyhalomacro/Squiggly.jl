@@ -1,0 +1,7 @@
+name = "Squiggly"
+uuid = "e0c9ad94-a9ab-4c1e-aa55-d3bc3ffec984"
+authors = ["Soc Virnyl Estela <contact@uncomfyhalomacro.pl>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
